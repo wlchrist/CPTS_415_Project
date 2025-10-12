@@ -1,0 +1,1102 @@
+[
+  {
+    "userID": 1591,
+    "ratings": [
+      {
+        "movieID": 128,
+        "title": "Croaker",
+        "genre": "Horror",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "userID": 1640,
+    "ratings": [
+      {
+        "movieID": 129,
+        "title": "The Queen's Lost Uncle",
+        "genre": "Biography",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 1791,
+    "ratings": [
+      {
+        "movieID": 131,
+        "title": "Coming Soon",
+        "genre": "Horror",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 2358,
+    "ratings": [
+      {
+        "movieID": 140,
+        "title": "Regalia",
+        "genre": "History",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 3025,
+    "ratings": [
+      {
+        "movieID": 151,
+        "title": "Burning Hope",
+        "genre": "Drama",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "userID": 3076,
+    "ratings": [
+      {
+        "movieID": 152,
+        "title": "Dangerous Innocence",
+        "genre": "Comedy",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 3803,
+    "ratings": [
+      {
+        "movieID": 164,
+        "title": "Capsules",
+        "genre": "Horror",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 3927,
+    "ratings": [
+      {
+        "movieID": 166,
+        "title": "We Came to Wreck Everything",
+        "genre": "Action",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 4020,
+    "ratings": [
+      {
+        "movieID": 167,
+        "title": "Peak Everything",
+        "genre": "Comedy",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "userID": 4608,
+    "ratings": [
+      {
+        "movieID": 176,
+        "title": "Quartier Mozart",
+        "genre": "Comedy",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 4877,
+    "ratings": [
+      {
+        "movieID": 180,
+        "title": "Soldiers of Music",
+        "genre": "Documentary",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 4997,
+    "ratings": [
+      {
+        "movieID": 181,
+        "title": "American Dreamers",
+        "genre": "Comedy",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "userID": 5010,
+    "ratings": [
+      {
+        "movieID": 181,
+        "title": "American Dreamers",
+        "genre": "Comedy",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 5245,
+    "ratings": [
+      {
+        "movieID": 186,
+        "title": "Seeds of Freedom",
+        "genre": "Drama",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 5765,
+    "ratings": [
+      {
+        "movieID": 194,
+        "title": "Urbania",
+        "genre": "Drama",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 6691,
+    "ratings": [
+      {
+        "movieID": 206,
+        "title": "Mr & Mrs Carmichael",
+        "genre": "Action",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 8740,
+    "ratings": [
+      {
+        "movieID": 236,
+        "title": "Impressions",
+        "genre": "Comedy",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 9148,
+    "ratings": [
+      {
+        "movieID": 243,
+        "title": "Nejmak Nejme Documentary Radio Show",
+        "genre": "Documentary",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "userID": 9560,
+    "ratings": [
+      {
+        "movieID": 250,
+        "title": "My Fading Childhood",
+        "genre": "Unknown",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 12541,
+    "ratings": [
+      {
+        "movieID": 296,
+        "title": "Humans",
+        "genre": "Documentary",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "userID": 12830,
+    "ratings": [
+      {
+        "movieID": 302,
+        "title": "Melodrive",
+        "genre": "Drama",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "userID": 13362,
+    "ratings": [
+      {
+        "movieID": 312,
+        "title": "Acilarin Kadini",
+        "genre": "Drama",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "userID": 13556,
+    "ratings": [
+      {
+        "movieID": 315,
+        "title": "Ki and Ti",
+        "genre": "Action",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "userID": 13694,
+    "ratings": [
+      {
+        "movieID": 317,
+        "title": "The World Before Your Feet",
+        "genre": "Documentary",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 13719,
+    "ratings": [
+      {
+        "movieID": 317,
+        "title": "The World Before Your Feet",
+        "genre": "Documentary",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 14180,
+    "ratings": [
+      {
+        "movieID": 329,
+        "title": "Midnight Desires",
+        "genre": "Adult",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "userID": 15164,
+    "ratings": [
+      {
+        "movieID": 345,
+        "title": "Brando",
+        "genre": "Biography",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 16063,
+    "ratings": [
+      {
+        "movieID": 360,
+        "title": "Karuna",
+        "genre": "Drama",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 17465,
+    "ratings": [
+      {
+        "movieID": 386,
+        "title": "Talking Black in America: Social Justice",
+        "genre": "Documentary",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 17595,
+    "ratings": [
+      {
+        "movieID": 388,
+        "title": "La septi\u00e8me dimension",
+        "genre": "Fantasy",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 17936,
+    "ratings": [
+      {
+        "movieID": 394,
+        "title": "Love Is...",
+        "genre": "Documentary",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 18340,
+    "ratings": [
+      {
+        "movieID": 403,
+        "title": "Plancha",
+        "genre": "Comedy",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 18376,
+    "ratings": [
+      {
+        "movieID": 403,
+        "title": "Plancha",
+        "genre": "Comedy",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 19034,
+    "ratings": [
+      {
+        "movieID": 414,
+        "title": "From Corinne's Heart",
+        "genre": "Musical",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "userID": 19979,
+    "ratings": [
+      {
+        "movieID": 428,
+        "title": "Killing Curriculum: Jinroh Shokei Game Prologue",
+        "genre": "Thriller",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 20714,
+    "ratings": [
+      {
+        "movieID": 438,
+        "title": "\u00c2mida shigure",
+        "genre": "Drama",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 21024,
+    "ratings": [
+      {
+        "movieID": 442,
+        "title": "Shit Happens",
+        "genre": "Comedy",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 21786,
+    "ratings": [
+      {
+        "movieID": 454,
+        "title": "Odyssey of a Vagabond Princess",
+        "genre": "Documentary",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "userID": 21853,
+    "ratings": [
+      {
+        "movieID": 455,
+        "title": "Murray Christmas",
+        "genre": "Romance",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 22304,
+    "ratings": [
+      {
+        "movieID": 463,
+        "title": "Un Solo Colore",
+        "genre": "Documentary",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 22716,
+    "ratings": [
+      {
+        "movieID": 471,
+        "title": "Silken Shackles",
+        "genre": "Comedy",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 22782,
+    "ratings": [
+      {
+        "movieID": 472,
+        "title": "Party Crasher",
+        "genre": "Biography",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 23641,
+    "ratings": [
+      {
+        "movieID": 486,
+        "title": "Girls und Panzer der Film",
+        "genre": "Action",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 24649,
+    "ratings": [
+      {
+        "movieID": 505,
+        "title": "Falador Has Fallen",
+        "genre": "Fantasy",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 25939,
+    "ratings": [
+      {
+        "movieID": 526,
+        "title": "Love",
+        "genre": "Drama",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 27342,
+    "ratings": [
+      {
+        "movieID": 550,
+        "title": "El disputado voto del Sr. Cayo",
+        "genre": "Drama",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "userID": 31162,
+    "ratings": [
+      {
+        "movieID": 612,
+        "title": "Babanin Su\u00e7u",
+        "genre": "Adventure",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 31351,
+    "ratings": [
+      {
+        "movieID": 616,
+        "title": "Five Little Peppers at Home",
+        "genre": "Drama",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 34123,
+    "ratings": [
+      {
+        "movieID": 666,
+        "title": "Playlist",
+        "genre": "Unknown",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 34671,
+    "ratings": [
+      {
+        "movieID": 675,
+        "title": "The Beach House",
+        "genre": "Comedy",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 34866,
+    "ratings": [
+      {
+        "movieID": 678,
+        "title": "At the Maple Grove",
+        "genre": "Drama",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "userID": 35365,
+    "ratings": [
+      {
+        "movieID": 686,
+        "title": "Prema Ishq Kaadhal",
+        "genre": "Drama",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 35717,
+    "ratings": [
+      {
+        "movieID": 692,
+        "title": "Made Up Language",
+        "genre": "Drama",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "userID": 35967,
+    "ratings": [
+      {
+        "movieID": 696,
+        "title": "Bare tjue",
+        "genre": "Comedy",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 36249,
+    "ratings": [
+      {
+        "movieID": 703,
+        "title": "Triad",
+        "genre": "Drama",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 36350,
+    "ratings": [
+      {
+        "movieID": 704,
+        "title": "Call of the Void",
+        "genre": "Thriller",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 36419,
+    "ratings": [
+      {
+        "movieID": 705,
+        "title": "Eureka Seven: Good Night, Sleep Tight, Young Lovers",
+        "genre": "Action",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "userID": 36622,
+    "ratings": [
+      {
+        "movieID": 710,
+        "title": "Choricha Mamla",
+        "genre": "Unknown",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 36828,
+    "ratings": [
+      {
+        "movieID": 712,
+        "title": "Oh No! Ivor the Dance King and some of his friends try to save the world!!",
+        "genre": "Comedy",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 37298,
+    "ratings": [
+      {
+        "movieID": 718,
+        "title": "Problem Toh Hai",
+        "genre": "Comedy",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 38819,
+    "ratings": [
+      {
+        "movieID": 742,
+        "title": "Days of El-Sadat",
+        "genre": "Biography",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 39363,
+    "ratings": [
+      {
+        "movieID": 752,
+        "title": "Konekt",
+        "genre": "Drama",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 40319,
+    "ratings": [
+      {
+        "movieID": 767,
+        "title": "Colonials",
+        "genre": "Sci-Fi",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 41340,
+    "ratings": [
+      {
+        "movieID": 784,
+        "title": "Madhuram",
+        "genre": "Romance",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "userID": 41663,
+    "ratings": [
+      {
+        "movieID": 789,
+        "title": "Face of Evil",
+        "genre": "Horror",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 42327,
+    "ratings": [
+      {
+        "movieID": 800,
+        "title": "The Atomic Man",
+        "genre": "Sci-Fi",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "userID": 42516,
+    "ratings": [
+      {
+        "movieID": 803,
+        "title": "Remo Williams 2: The Adventure Continues",
+        "genre": "Action",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 42833,
+    "ratings": [
+      {
+        "movieID": 807,
+        "title": "Houria",
+        "genre": "Drama",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 43494,
+    "ratings": [
+      {
+        "movieID": 819,
+        "title": "Gundello Godari",
+        "genre": "Adventure",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 44116,
+    "ratings": [
+      {
+        "movieID": 828,
+        "title": "Astoria",
+        "genre": "Adventure",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 44441,
+    "ratings": [
+      {
+        "movieID": 834,
+        "title": "A Million",
+        "genre": "Thriller",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 44663,
+    "ratings": [
+      {
+        "movieID": 838,
+        "title": "The Two Yossi",
+        "genre": "Documentary",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 45905,
+    "ratings": [
+      {
+        "movieID": 857,
+        "title": "Wax Print: 1 Fabric, 4 Continents, 200 Years of History",
+        "genre": "Documentary",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 46202,
+    "ratings": [
+      {
+        "movieID": 862,
+        "title": "Ameluk",
+        "genre": "Comedy",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 47603,
+    "ratings": [
+      {
+        "movieID": 885,
+        "title": "The Bathhouse That Wanted to Keep on Being a Bathhouse",
+        "genre": "Documentary",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 48263,
+    "ratings": [
+      {
+        "movieID": 898,
+        "title": "The Case Against 8",
+        "genre": "Biography",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "userID": 49009,
+    "ratings": [
+      {
+        "movieID": 912,
+        "title": "El Guion de tu vida",
+        "genre": "Documentary",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 49146,
+    "ratings": [
+      {
+        "movieID": 914,
+        "title": "The Only Doctor",
+        "genre": "Documentary",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 49701,
+    "ratings": [
+      {
+        "movieID": 925,
+        "title": "Daddy Coded",
+        "genre": "Comedy",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 49964,
+    "ratings": [
+      {
+        "movieID": 930,
+        "title": "An Interview with Rob De Wit in Norroth",
+        "genre": "Documentary",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "userID": 50171,
+    "ratings": [
+      {
+        "movieID": 933,
+        "title": "Mayor Meenakshi",
+        "genre": "Unknown",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 50634,
+    "ratings": [
+      {
+        "movieID": 941,
+        "title": "Two Tigers",
+        "genre": "Comedy",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 51360,
+    "ratings": [
+      {
+        "movieID": 951,
+        "title": "Jiyo Aur Jeene Do",
+        "genre": "Romance",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 52058,
+    "ratings": [
+      {
+        "movieID": 965,
+        "title": "Visions of New York City",
+        "genre": "Documentary",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 52625,
+    "ratings": [
+      {
+        "movieID": 973,
+        "title": "Murphy's Creek",
+        "genre": "Thriller",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "userID": 52764,
+    "ratings": [
+      {
+        "movieID": 975,
+        "title": "Pai kau",
+        "genre": "Drama",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 53151,
+    "ratings": [
+      {
+        "movieID": 980,
+        "title": "Bat Hunter",
+        "genre": "Horror",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 53667,
+    "ratings": [
+      {
+        "movieID": 989,
+        "title": "Acid Head: The Buzzard Nuts County Slaughter",
+        "genre": "Action",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 53734,
+    "ratings": [
+      {
+        "movieID": 989,
+        "title": "Acid Head: The Buzzard Nuts County Slaughter",
+        "genre": "Action",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 53783,
+    "ratings": [
+      {
+        "movieID": 990,
+        "title": "Ashes to Ashes",
+        "genre": "Horror",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 54490,
+    "ratings": [
+      {
+        "movieID": 1003,
+        "title": "Tender Touch of Evil",
+        "genre": "Unknown",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 54824,
+    "ratings": [
+      {
+        "movieID": 1009,
+        "title": "The Parasomniac",
+        "genre": "Crime",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 54867,
+    "ratings": [
+      {
+        "movieID": 1010,
+        "title": "Prontuario de Roberto Parra",
+        "genre": "Documentary",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 55424,
+    "ratings": [
+      {
+        "movieID": 1018,
+        "title": "Jezebel's Kiss",
+        "genre": "Drama",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 56339,
+    "ratings": [
+      {
+        "movieID": 1034,
+        "title": "Dharani",
+        "genre": "Drama",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "userID": 56411,
+    "ratings": [
+      {
+        "movieID": 1035,
+        "title": "The Man Inside",
+        "genre": "Crime",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "userID": 56523,
+    "ratings": [
+      {
+        "movieID": 1039,
+        "title": "Etiopia 1938 - To the Empire's Conquer",
+        "genre": "Documentary",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 58622,
+    "ratings": [
+      {
+        "movieID": 1072,
+        "title": "Aurora",
+        "genre": "Drama",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 59972,
+    "ratings": [
+      {
+        "movieID": 1094,
+        "title": "La faute de Monique",
+        "genre": "Unknown",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 60245,
+    "ratings": [
+      {
+        "movieID": 1098,
+        "title": "Lei de Sangue",
+        "genre": "Drama",
+        "rating": 5.0
+      }
+    ]
+  }
+]
