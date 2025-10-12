@@ -1,0 +1,47 @@
+[
+  {
+    "userID": 1,
+    "ratings": [
+      {
+        "movieID": 101,
+        "title": "The Matrix",
+        "genre": "Sci-Fi",
+        "rating": 5.0
+      },
+      {
+        "movieID": 102,
+        "title": "Titanic",
+        "genre": "Romance",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "userID": 2,
+    "ratings": [
+      {
+        "movieID": 101,
+        "title": "The Matrix",
+        "genre": "Sci-Fi",
+        "rating": 4.0
+      },
+      {
+        "movieID": 103,
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "userID": 3,
+    "ratings": [
+      {
+        "movieID": 104,
+        "title": "Avatar",
+        "genre": "Action",
+        "rating": 5.0
+      }
+    ]
+  }
+]

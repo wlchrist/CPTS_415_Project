@@ -1,0 +1,6 @@
+userID,movieID,title,genre,rating
+1,101,The Matrix,Sci-Fi,5
+1,102,Titanic,Romance,4
+2,101,The Matrix,Sci-Fi,4
+2,103,Inception,Sci-Fi,5
+3,104,Avatar,Action,5
