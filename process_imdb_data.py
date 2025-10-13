@@ -30,7 +30,7 @@ def process_imdb_data():
     existing_movie_ids = set(existing_df['movieID'].tolist()) # add movie ids
     existing_user_ids = set(existing_df['userID'].tolist())
     
-    num_movies_to_add = min(1000, len(movies_df))
+    num_movies_to_add = min(5000, len(movies_df))
     sampled_movies = movies_df.sample(n=num_movies_to_add, random_state=42)
     
     print(f"Adding ratings for {num_movies_to_add} movies...")
@@ -48,7 +48,7 @@ def process_imdb_data():
         else:
             genre = genres.split(',')[0].strip()
         
-        num_ratings = random.randint(20, 100)  # fake ratings until we figure out how to get real ratings
+        num_ratings = random.randint(100, 300)  # fake ratings until we figure out how to get real ratings
         
         for _ in range(num_ratings):
             user_id = user_id_counter
